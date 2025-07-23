@@ -60,7 +60,7 @@ body {
 }
 
 .weather-card {
-  background-color: lightgray;
+  background-color: wheat;
   padding: 20px;
 }
 
@@ -75,7 +75,7 @@ body {
 
 .detail {
   padding: 8px;
-  background-color: white;
+  background-color: pink;
 }
 
 .label {
