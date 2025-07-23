@@ -84,7 +84,7 @@ body {
 
 .input {
   padding: 10px;
-  border: 1px solid gray;
+  border: 1px solid whitesmoke;
   width: 200px;
 }
 
@@ -111,7 +111,7 @@ body {
 }
 
 .weather-card {
-  background-color: lightgray;
+  background-color: wheat;
   padding: 20px;
 }
 
@@ -126,7 +126,7 @@ body {
 
 .detail {
   padding: 8px;
-  background-color: white;
+  background-color: pink;
 }
 
 .label {
@@ -140,6 +140,7 @@ body {
   left: 10px;
   color: black;
 }
+
 
 ```
 App.jsx
@@ -318,7 +319,8 @@ export default Weather
 
 ## Output:
 <img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/2a6a7577-a009-4cb8-81c5-08b082e82341" />
-<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/9c511b7d-a5da-4d96-981f-7de710607585" />
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/79c8c04e-72e3-45fd-87ab-37654ed0903d" />
+
 
 
 
